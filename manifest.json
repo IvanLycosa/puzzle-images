@@ -1,15 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "images": [
-    "forest.jpg",
-    "city.jpg",
-    "mountains.jpg",
-    "ocean.jpg",
-    "sunset.jpg",
-    "flowers.jpg",
-    "animals.jpg",
-    "architecture.jpg",
-    "abstract.jpg",
-    "winter.jpg"
+    "image06.jpg",
+    "image07.jpg"    
   ]
 }
